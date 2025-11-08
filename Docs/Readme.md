@@ -77,5 +77,93 @@ The system also includes **AI-powered features**, such as personalized course re
 
 ---
 
-## 📂 Folder Structure
+<img width="1542" height="696" alt="Screenshot 2025-11-06 134717" src="https://github.com/user-attachments/assets/fb7dcf59-7e7c-4ffa-b837-2e7db844ba3a" />
+
+---
+
+<img width="1544" height="761" alt="Screenshot 2025-11-06 134612" src="https://github.com/user-attachments/assets/a461deba-c6a4-4d83-92f8-a8c925e2a7bb" />
+
+---
+
+<img width="1542" height="763" alt="Screenshot 2025-11-06 134629" src="https://github.com/user-attachments/assets/127c76ca-f912-4257-9922-715edd3baa09" />
+
+---
+
+<img width="1540" height="656" alt="Screenshot 2025-11-08 185900" src="https://github.com/user-attachments/assets/ab5daa7d-5553-4eb1-a1d4-29f18acfef6c" /> 
+
+ ---
+
+ <img width="1544" height="540" alt="Screenshot 2025-11-08 185923" src="https://github.com/user-attachments/assets/9c2e3cec-5ebb-4f62-9551-009364b18f6e" />
+
+ ---
+
+ <img width="1546" height="567" alt="Screenshot 2025-11-08 185945" src="https://github.com/user-attachments/assets/4f38151f-df2a-482c-858b-cfb7b23b4a16" />
+
+ ---
+
+ <img width="1549" height="684" alt="Screenshot 2025-11-08 190005" src="https://github.com/user-attachments/assets/6c663f86-3d61-4b08-b7b4-129c3b3e6656" />
+
+ ---
+
+ ## Installation
+
+1. Clone the repository:
+
+```bash
+https://github.com/Gaurav-Yadav04/etack.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd Elearning-Platform-Using-MERN
+```
+
+3. Install dependencies for the server:
+
+```bash
+cd backend
+npm install
+```
+
+4. Navigate to the client directory and install client dependencies:
+
+```bash
+cd frontend
+npm install
+```
+
+5. Run Frontend:
+
+```bash
+cd frontend
+npm start
+```
+
+6. Run Backend:
+
+```bash
+cd backend
+node index.js
+```
+
+The application will be accessible at `http://localhost:3000`.
+
+## Contributing
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+If you'd like to contribute to the project:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Submit a pull request with a clear description of the changes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
+
+
+
+
+
 
